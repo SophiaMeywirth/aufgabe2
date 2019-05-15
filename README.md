@@ -11,17 +11,17 @@ PROJEKT AUSFÜHREN
 
 Bitte beachten:
 
-Das Projekt läuft mit Pyhton3 und Django 2.2.1. 
+Das Projekt läuft mit Python3 und Django 2.2.1. 
 
 Da oftmals Python2.7 global installiert ist und mit pip Django nur für
 
-Python2.7 installiert wird, wird eine virtual environment mit
+Python2.7 installiert, wird eine virtual environment mit
 
 "virtualenv" empfohlen: 
 
 https://virtualenv.pypa.io .
 
-Hier eine virtualenv errichten und in ihr mit pip :
+Hiermit eine virtualenv errichten und in ihr mit pip :
 
 https://pip.pypa.io/en/stable/
 
